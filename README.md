@@ -20,12 +20,6 @@ A visually engaging, console-based Rock–Paper–Scissors game in Python featur
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Demo](#demo)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [Roadmap](#roadmap)  
-- [License & Author](#license--author)
-
----
 
 ## 🛠 Prerequisites
 
